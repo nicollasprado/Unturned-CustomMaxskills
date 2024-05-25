@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\CustomMaxskills.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\CustomMaxskills.pdb
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\Assembly-CSharp.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\Rocket.API.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\Rocket.Core.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\Rocket.Unturned.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\SDG.NetTransport.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\bin\Debug\UnityEngine.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\obj\Debug\CustomMaxskills.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\obj\Debug\CustomMaxskills.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\obj\Debug\CustomMa.445464C0.Up2Date
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\obj\Debug\CustomMaxskills.dll
+C:\Users\nicol\source\repos\CustomMaxskills\CustomMaxskills\obj\Debug\CustomMaxskills.pdb
